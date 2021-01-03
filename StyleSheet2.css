@@ -1,0 +1,58 @@
+﻿body
+{
+	 background-image: url("https://us.123rf.com/450wm/yevgenijd/yevgenijd1709/yevgenijd170900045/86732476-abstract-binary-code-background-digital-technology-wallpaper-cyber-data-decryption-and-encryption-ha.jpg?ver=6");
+	 background-position: center; /* Center the image */
+	 background-repeat: no-repeat; /* Do not repeat the image */
+	 background-size: cover;
+	 
+}
+h1
+{
+	text-align:center;
+	font-family: 'Roboto Mono', monospace;
+	color:white;
+}
+#title
+{
+	margin: 50px 0px;
+}
+#formleft
+{
+	margin:0px 0px 0px 300px;
+	color:white;
+	font-family: 'Roboto Mono', monospace;
+}
+#fname
+{
+	margin:0px 30px 0px 100px;
+}
+#lname
+{
+	margin:0px 30px 0px 110px;
+}
+#email
+{
+	margin:0px 30px 0px 144px;
+}
+#Uname
+{
+	margin:0px 30px 0px 75px;
+}
+#passw
+{
+	margin:0px 30px 0px 75px;
+}
+#cpassw
+{
+	margin:0px 30px 0px 28px;
+}
+.label
+{
+    font-family: 'Roboto Mono', monospace;
+	font-size:120%;
+}
+#btn
+{
+	margin:30px 0px 0px 0px;
+	font-family: 'Roboto Mono', monospace;
+}
